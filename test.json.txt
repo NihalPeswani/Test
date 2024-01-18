@@ -1,2 +1,3 @@
-name Shane
-Aspirational Age 28
+name: Shane
+Aspirational: Age 28
+Aspirational location: On a boat
